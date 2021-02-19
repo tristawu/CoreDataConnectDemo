@@ -14,6 +14,7 @@
 		29A4AD7525DD332F00AAA7BC /* CoreDataConnectDemo.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 29A4AD7325DD332F00AAA7BC /* CoreDataConnectDemo.xcdatamodeld */; };
 		29A4AD7725DD333100AAA7BC /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 29A4AD7625DD333100AAA7BC /* Assets.xcassets */; };
 		29A4AD7A25DD333100AAA7BC /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 29A4AD7825DD333100AAA7BC /* LaunchScreen.storyboard */; };
+		29A4AD8325DD335000AAA7BC /* CoreDataConnect.swift in Sources */ = {isa = PBXBuildFile; fileRef = 29A4AD8225DD335000AAA7BC /* CoreDataConnect.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		29A4AD7625DD333100AAA7BC /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		29A4AD7925DD333100AAA7BC /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		29A4AD7B25DD333100AAA7BC /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		29A4AD8225DD335000AAA7BC /* CoreDataConnect.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CoreDataConnect.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -42,6 +44,7 @@
 		29A4AD5E25DD332F00AAA7BC = {
 			isa = PBXGroup;
 			children = (
+				29A4AD8225DD335000AAA7BC /* CoreDataConnect.swift */,
 				29A4AD6925DD332F00AAA7BC /* CoreDataConnectDemo */,
 				29A4AD6825DD332F00AAA7BC /* Products */,
 			);
@@ -144,6 +147,7 @@
 				29A4AD6F25DD332F00AAA7BC /* ViewController.swift in Sources */,
 				29A4AD6B25DD332F00AAA7BC /* AppDelegate.swift in Sources */,
 				29A4AD6D25DD332F00AAA7BC /* SceneDelegate.swift in Sources */,
+				29A4AD8325DD335000AAA7BC /* CoreDataConnect.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
